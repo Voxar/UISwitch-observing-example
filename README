@@ -1,0 +1,1 @@
+Example showing that KVO for the 'on' property of an UISwitch will not trigger when switch is manipulated with touch events or setOn:animated:
